@@ -1,2 +1,2 @@
 # spotify
-Clone pagina do Spotify utilizando Tailwind
+Clone da pagina do Spotify utilizando Tailwind
